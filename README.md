@@ -1,16 +1,16 @@
 [![MasterHead](https://github.com/user-attachments/assets/3d3912a2-9d6b-4a78-b72b-884012073db0)](www.linkedin.com/in/gustavo-do-amaral-pereira)
 
 <h1 align="center">Hi 👋, I'm Gustavo do Amaral</h1>
-<h3 align="center">developer from Brazil with a passion for the back-end</h3>
+<h3 align="center">I'm a brazilian developer passionated for the back-end</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e100c63d-7a42-4a3c-969c-31aba3de00d0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusstavoap&label=Profile%20views&color=0e75b6&style=flat" alt="gusstavoap" /> </p>
 
-- 🌱 I’m currently learning **AWS and Java (Spring boot)**
+- 🌱 I'm improving my skills with **AWS** and **Java (Spring boot)**
 
-- 💬 Ask me about **python**
+- 💬 The programming language i know the most is **python**
 
-- 📫 How to reach me **gustavo23767@gmail.com**
+- 📫 You can contact me through **gustavo23767@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
