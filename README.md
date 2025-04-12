@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=gusstavoap&label=Profile%20views&color=0e75b6&style=flat" alt="gusstavoap" /> 
 </p>
 
-- 🌱 I'm improving my skills with **AWS** and **Java (Spring Boot)**
+- 🌱 I'm improving my skills with **Python** and **Java (Spring Boot)**
 
-- 💬 The programming language I know the most is **Python**
+- 💬 The programming language I know the most is **JAVA**
 
 - 📫 You can contact me through **gustavo23767@gmail.com**
 
@@ -55,14 +55,19 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusstavoap&show_icons=true&locale=en&layout=compact" alt="gusstavoap" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusstavoap&layout=compact" alt="Top Langs" height="120"/>
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=gusstavoap&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusstavoap&show_icons=true&locale=en" alt="gusstavoap" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusstavoap&" alt="gusstavoap" />
-</p>
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+
