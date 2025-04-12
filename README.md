@@ -16,7 +16,7 @@ My name is Gustavo do Amaral, I am 22 years old and originally from São Paulo. 
 
 - 💬 The programming language I know the most is **JAVA**
 
-- 📫 You can contact me through **gustavo23767@gmail.com**
+- 📫 You can contact me through **gustavoamaralp2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
