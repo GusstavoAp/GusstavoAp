@@ -57,16 +57,7 @@ My name is Gustavo do Amaral, I am 22 years old and originally from São Paulo. 
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusstavoap&layout=compact" alt="Top Langs" height="120"/>
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=gusstavoap&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
-    </td>
-  </tr>
-</table>
+
 
  
 
