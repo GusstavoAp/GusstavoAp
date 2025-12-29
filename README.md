@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Gustavo do Amaral
 
-**`FullStack Developer`** and **`future Software Engineer`**.
+**`Full Stack Developer`** and **`future Software Engineer`**.
 My name is Gustavo do Amaral, I am 22 years old and originally from São Paulo. I hold a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos. I am passionate about technology and have a strong affinity for back-end development, especially using Java (Spring Boot 3), along with experience in other languages such as Python and databases like MySQL and H2. I seek to continuously expand my expertise by strengthening my skills in Software Engineering while maintaining a solid foundation in Systems Analysis and Development. I believe in the importance of combining analytical thinking, strong fundamentals, and best practices to build efficient and scalable solutions.
 
 <p align="left"> 
