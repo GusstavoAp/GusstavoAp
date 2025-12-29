@@ -12,7 +12,7 @@ My name is Gustavo do Amaral, I am 22 years old and originally from São Paulo. 
   <img src="https://komarev.com/ghpvc/?username=gusstavoap&label=Profile%20views&color=0e75b6&style=flat" alt="gusstavoap" /> 
 </p>
 
-- 🌱 I'm improving my skills with **Python** and **Java (Spring Boot)**
+- 🌱 I'm improving my skills with **React**,**Java and Spring Boot**
 
 - 💬 The programming language I know the most is **JAVA** and **REACT**
 
