@@ -1,66 +1,74 @@
-
-# 👩🏻‍💻 Gustavo do Amaral
-
-**`Full Stack Developer`** and **`future Software Engineer`**.
-My name is Gustavo do Amaral, I am 22 years old and originally from São Paulo. I hold a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos. I am passionate about technology and have a strong affinity for back-end development, especially using Java (Spring Boot 3), along with experience in other languages such as Python and databases like MySQL and H2. I seek to continuously expand my expertise by strengthening my skills in Software Engineering while maintaining a solid foundation in Systems Analysis and Development. I believe in the importance of combining analytical thinking, strong fundamentals, and best practices to build efficient and scalable solutions.
-
-<p align="left"> 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e100c63d-7a42-4a3c-969c-31aba3de00d0">
+<p align="center">
+  <img src="Banner Github.png" width="1000">
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gusstavoap&label=Profile%20views&color=0e75b6&style=flat" alt="gusstavoap" /> 
+
+<tr>
+<td width="60%">
+
+## 👩🏻‍💻 Gustavo do Amaral
+
+**`Full Stack Developer`** · **`Future Software Engineer`**
+
+I am 22 years old, from São Paulo, and graduated in **Systems Analysis and Development** at **FATEC Ferraz de Vasconcelos**.  
+I am passionate about technology with a strong focus on **Back-end development**, especially using **Java (Spring Boot 3)**, alongside experience with **Python** and relational databases such as **MySQL** and **PostgreSQL**.
+
+I aim to continuously improve my skills in **Software Engineering**, combining strong fundamentals, analytical thinking, and best practices to build **efficient and scalable solutions**.
+
+- 🌱 Improving skills with **React, Java & Spring Boot**
+- 💬 Strongest technologies: **Java & React**
+- 📫 Contact: **gustavoamaralp2@gmail.com**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gusstavoap&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🌱 I'm improving my skills with **React**, **Java and Spring Boot**
-
-- 💬 The programming language I know the most is **JAVA** and **REACT**
-
-- 📫 You can contact me through **gustavoamaralp2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🤝 Connect with me
+<p>
   <a href="https://linkedin.com/in/gustavo-do-amaral-pereira" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Gustavo do Amaral Pereira" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gustavoamaralp2@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email - gustavoamaralp2@gmail.com" height="30" width="40" />
-  </a>
-</p>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="mailto:gustavoamaralp2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+</td>
+<td width="40%" align="center">
+</td>
+</tr>
 
 
- 
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
+<p align="center">
+  <img src="gif github temple.gif" width="1000">
+</p>
+<p align="center">
+  <img src="Linha github.gif" width="1000">
+</p>
