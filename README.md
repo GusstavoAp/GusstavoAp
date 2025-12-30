@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="Banner Github.png" width="1000">
+  <img src="Banner Github.png" width="2000">
 </p>
 
 
 <tr>
-<td width="60%">
+<td width="50%">
 
 ## 👩🏻‍💻 Gustavo do Amaral
 
