@@ -10,7 +10,7 @@
 
 **`Full Stack Developer`** · **`Future Software Engineer`**
 
-I am 22 years old, from São Paulo, and graduated in **Systems Analysis and Development** at **FATEC Ferraz de Vasconcelos**.  
+I am 23 years old, from São Paulo, and graduated in **Systems Analysis and Development** at **FATEC Ferraz de Vasconcelos**.  
 I am passionate about technology with a strong focus on **Back-end development**, especially using **Java (Spring Boot 3)**, alongside experience with **Python** and relational databases such as **MySQL** and **PostgreSQL**.
 
 I aim to continuously improve my skills in **Software Engineering**, combining strong fundamentals, analytical thinking, and best practices to build **efficient and scalable solutions**.
