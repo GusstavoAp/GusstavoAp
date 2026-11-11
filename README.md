@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download.gif">
+  <img src="banner github2cat.jpg">
 </p>
 
 
